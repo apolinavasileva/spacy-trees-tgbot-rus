@@ -1,2 +1,5 @@
 .env
 .idea/
+/tgbotenv
+.DS_Store
+log.log
